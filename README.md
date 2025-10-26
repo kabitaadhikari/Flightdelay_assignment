@@ -1,7 +1,6 @@
 # Flight Delay Prediction — Part A (On-Premises)
 
 This repository contains the **on-premises** machine-learning pipeline for predicting whether a flight will arrive **15+ minutes late** (`target = 1`).  
-It implements Steps 1–3 of the unit’s Final Project (Part A). Part B reuses the exported dataset on AWS SageMaker.
 
 ## What this project does
 - Loads & filters BTS On-Time Performance data (2014–2018 subset)
