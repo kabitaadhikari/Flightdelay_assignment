@@ -27,12 +27,12 @@ pip install -r requirements.txt
 
 
 
-# ======= CONFIG (you can change REPO_NAME if you want) =======
+# ======= =======
 GITHUB_USER="kabitaadhikari"
 REPO_NAME="flight-delay-part-a"
 # ============================================================
 
-# Go to your project folder
+# my project folder
 cd "C:/Users/kkabi/Desktop/Assignments/Data Science pipeline_final project" || exit 1
 
 # Rename notebook (remove spaces)
