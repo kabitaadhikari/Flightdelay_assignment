@@ -1,0 +1,17 @@
+# Data & large artifacts (local only)
+data_compressed/
+data_csv/
+outputs/
+*.zip
+*.csv
+*.parquet
+
+# Notebook checkpoints / temp
+.ipynb_checkpoints/
+*.ipynb~*
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
